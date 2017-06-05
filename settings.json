@@ -2,4 +2,5 @@
   "user": "jerry",
   "database": "jerry",
   "hostname": "localhost"
+  "port": 5430
 }
